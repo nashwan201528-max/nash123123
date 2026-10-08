@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix مونتاج برو",
+  "description": "تطبيق تعديل وقص ومونتاج الفيديو والصور بالذكاء الاصطناعي مع فلاتر وقوالب واقتصاص وتصدير سهل",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
